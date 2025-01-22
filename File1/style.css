@@ -1,15 +1,10 @@
-	  <style>
 body {
   background-color: lightgreen;
 }
-</style>
-	  <style>
-		  div.a {
+div.a {
   font-size: large;
 }
-		  </style>
-	  <style>
-		  h1 {
+h1 {
   position: absolute;
   left: 150px;
   top: 150px;
